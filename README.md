@@ -7,6 +7,11 @@ Description
 
 ## Implementation
 Which features you included.
+add background
+add new enemy
+add music 
+
+
 
 ## References
 
@@ -17,3 +22,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
+Chengyu Yang
